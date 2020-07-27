@@ -4,7 +4,7 @@
 
 I am currently work as a Senior Android Developer and maintaining/developing 2 well know shopping/fashion apps in the UK. Our codebase is 100% Kotlin & attempts to utilize the clean architecture pattern MVVM.
 
-<img src="./assets/CartoonHead.png" width="60"><a href="https://youtube.com/benkadel">![youtube](https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg)</a>
+<img src="https://github.com/kardelio/kardelio/blob/master/assets/CartoonHead.png" width="60"><a href="https://youtube.com/benkadel">![youtube](https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg)</a>
 
 I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post weekly to on a range of topics from Bash scripting, teaching how to program, Android development, interviews with industry professionals & even fun silly skit kind of things!
 
