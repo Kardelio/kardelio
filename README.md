@@ -23,31 +23,31 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
     </td>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
 </tr>
 <tr>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
     </td>
     <td>
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/terminal-1.svg" width="60">
-        <span>- Terminal</span>
+        </br><span>Terminal</span>
     </td>
 </tr>
 <tr>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="60">
-        <span>- C++</span>
+        </br><span>C++</span>
+    </td>
+    <td>
+        <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
     </td>
     <td>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td>
-        <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">
     </td>
 </tr>
 <tr>
@@ -55,23 +55,15 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     </td>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="60">
+        </br><span>Javascript</span>
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-        <span>- CSS</span>
+        </br><span>CSS</span>
     </td>
 </tr>
 </table>
-
-## Split
-
-<span>![android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)</span>
-<span>![kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)</span>
-<span>![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)</span>
-<span>![java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)</span>
-<span>![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)</span>
-<span><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/terminal-1.svg" width="60"></span>
 
 ## My Projects
 
