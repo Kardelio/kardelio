@@ -28,20 +28,18 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 </tr>
 <tr>
     <td>
-        <img src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
     </td>
     <td>
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg">
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/terminal-1.svg" width="60">
-        </br><span>Terminal</span>
     </td>
 </tr>
 <tr>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="60">
-        </br><span>C++</span>
     </td>
     <td>
         <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
@@ -56,11 +54,9 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="60">
-        </br><span>Javascript</span>
     </td>
     <td>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-        </br><span>CSS</span>
     </td>
 </tr>
 </table>
