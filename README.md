@@ -8,7 +8,9 @@ I am currently work as a Senior Android Developer and maintaining/developing 2 w
 
 I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post weekly to on a range of topics from Bash scripting, teaching how to program, Android development, interviews with industry professionals & even fun silly skit kind of things!
 
-## Tech Stack :computer: (My Skills)
+I love presenting & teaching others about tech & programming.
+
+## Tech Stack :computer: (My Skills)s
 
 <span>![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)</span>
 <span>![android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)</span>
@@ -23,4 +25,4 @@ Check out some of my more interesting/stand-out github projects (in no particula
 | Project | Language | Description | Link |
 | --- | --- | --- | --- |
 | easy-dumpsys | ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg) | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | [Link](https://github.com/kardelio/easy-dumpsys) |
-| todo | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | [Link](https://github.com/kardelio/easy-dumpsys) |
+| todo | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="32"> | Terminal based Todo list keeper. Have different lists, colours, priorities & even tag your tasks | [Link](https://github.com/kardelio/todo) |
