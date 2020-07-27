@@ -18,8 +18,9 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 
 ## My Projects
 
-Check out some of my more interesting/stand-out github projects:
+Check out some of my more interesting/stand-out github projects (in no particular order):
 
 | Project | Language | Description | Link |
 | --- | --- | --- | --- |
-| easy-dumpsys | ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg) | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | github.com/kardelio/easy-dumpsys |
+| easy-dumpsys | ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg) | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | [Link](https://github.com/kardelio/easy-dumpsys) |
+| todo | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"> | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | [Link](https://github.com/kardelio/easy-dumpsys) |
