@@ -1,17 +1,25 @@
-# Hi, Im Ben :computer: :smile: :space_invader:
+# Hi, Im Ben  :uk: :de:
 
-## Senior Android Developer :iphone:
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
-I currently work as part of a team of awesome Android Devs maintaining and developing 2 well know shopping apps in the UK.
+I am currently work as a Senior Android Developer and maintaining/developing 2 well know shopping/fashion apps in the UK. Our codebase is 100% Kotlin & attempts to utilize the clean architecture pattern MVVM.
 
-## YouTube channel :tv:
+<img src="./assets/CartoonHead.png" width="60"><a href="https://youtube.com/benkadel">![youtube](https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg)</a>
 
-:video_camera: [My YouTube Channel Link](https://youtube.com/benkadel)
+I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post weekly to on a range of topics from Bash scripting, teaching how to program, Android development, interviews with industry professionals & even fun silly skit kind of things!
 
-<!-- <a href="mailto:ryan@thepalos.com">![Please hire me.](https://github.com/rpalo/rpalo/blob/master/hire-me.png)</a> -->
+## Tech Stack :computer: (My Skills)
 
+<span>![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)</span>
+<span>![android](https://www.vectorlogo.zone/logos/android/android-ar21.svg)</span>
+<span>![kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg)</span>
+<span>![java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)</span>
+<span>![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)</span>
 
-## Other links :link:
+## My Projects
 
-- [Twitter](https://twitter.com/ben_kadel)
-- [LinkedIn](https://uk.linkedin.com/in/benkadel)
+Check out some of my more interesting/stand-out github projects:
+
+| Project | Language | Description | Link |
+| --- | --- | --- | --- |
+| easy-dumpsys | ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg) | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | github.com/kardelio/easy-dumpsys |
