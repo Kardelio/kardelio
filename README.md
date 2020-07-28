@@ -14,7 +14,7 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 
 ## Tech Stack :computer: (My Skills)
 
-<table>
+<table style="text-align: center;">
 <tr>
     <td>
         <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
