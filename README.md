@@ -25,8 +25,6 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
     <td>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
-</tr>
-<tr>
     <td>
         <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg">
     </td>
@@ -47,8 +45,6 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
     <td>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-</tr>
-<tr>
     <td>
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
     </td>
