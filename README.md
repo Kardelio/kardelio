@@ -11,6 +11,11 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 ## Things that make me, me
 
 * I love presenting in front of audiences & teaching others about tech & programming.
+* I have a strange, but fun, obsession with keeping my dev flow within a terminal and using it as often as possible. Hence I write alot of bash scripts that help automate most of my tasks.
+* I am a big fan of the FOSS movement as a whole and think its really important to advocate that software should be free and open.
+* I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge.
+* As stated above I have a tech/dev YouTube channel that I am constantly trying to grow & create awesome (hopefully helpful to others) content for. So this requires a lot of video & image editing, for those I use Davinchi Resolve & Gimp.
+* It important to me to stay in shape so I go to the gym regularly, do a bunch of bouldering & also play Ultimate Frisbee.
 
 ## Tech Stack :computer: (My Skills)
 
@@ -46,7 +51,7 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
     </td>
 </tr>
 <tr>
@@ -64,6 +69,23 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
     </td>
 </tr>
 </table>
