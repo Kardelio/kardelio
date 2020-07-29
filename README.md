@@ -95,6 +95,6 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 Check out some of my more interesting/stand-out github projects (in no particular order):
 
 | Project | Language | Description | Link |
-| --- | --- | --- | --- |
+| --- |:---:| --- | --- |
 | easy-dumpsys | ![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg) | Tool for Android devs to view the current activities & fragments of an app in a easy to view way in the terminal | [Link](https://github.com/kardelio/easy-dumpsys) |
 | todo | <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg" width="40"> | Terminal based Todo list keeper. Have different lists, colours, priorities & even tag your tasks | [Link](https://github.com/kardelio/todo) |
