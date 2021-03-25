@@ -90,6 +90,10 @@ I have a Tech/Dev [YouTube Channel](https://youtube.com/benkadel) that I post we
 </tr>
 </table>
 
+## Stats
+
+[![Kardelios' github stats](https://github-readme-stats.vercel.app/api?username=kardelio)](https://github.com/laisbsc/github-readme-stats)
+
 ## My Projects
 
 Check out some of my more interesting/stand-out github projects (in no particular order):
