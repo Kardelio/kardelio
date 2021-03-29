@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
-I am currently work as a Senior Android Developer and maintaining/developing 2 well know shopping/fashion apps in the UK. Our codebase is 100% Kotlin & attempts to utilize the clean architecture pattern MVVM.
+I currently work as a Senior Android Developer and I maintain/develop a well known language learning app that is widely used acrossed Europe.
 
 <img src="https://github.com/kardelio/kardelio/blob/master/assets/CartoonHead.png" width="60"><a href="https://youtube.com/benkadel">![youtube](https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg)</a>
 
