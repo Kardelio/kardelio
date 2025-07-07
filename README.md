@@ -4,7 +4,7 @@ https://kardelio.github.io/
 
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
-I currently work as a Senior Android Developer and I maintain/develop a well known language learning app that is widely used acrossed Europe.
+I currently work as a Senior Mobile Engineer working in Berlin.
 
 <img src="https://github.com/kardelio/kardelio/blob/master/assets/CartoonHead.png" width="60"><a href="https://youtube.com/benkadel">![youtube](https://www.vectorlogo.zone/logos/youtube/youtube-ar21.svg)</a>
 
